@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "One-click Kittens",
-  "description": "This extension demonstrates a browser action with kittens.",
+  "name": "Amazon Cashback",
+  "description": "Earn commission share of every product you buy on Amazon.",
   "version": "1.0",
 
   "permissions": [
